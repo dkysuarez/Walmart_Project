@@ -1,4 +1,3 @@
----
 
 # Walmart Sales Prediction Project
 
@@ -44,4 +43,3 @@ To view the web page, follow these steps:
 
 If you'd like to contribute to this project, you're welcome! You can fork the repository, make your changes, and then submit a pull request.
 
----
